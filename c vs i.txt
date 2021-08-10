@@ -1,0 +1,22 @@
+Difference between COMPILER and INTERPRETER
+
+COMPILER                                               INETERPRETER
+
+1. It converts HLL program                1. It converts HLL program                
+   language into machine                         into machine language line by line
+   language in one go
+
+2.all errors report at the end           2.errors report side by side(at the same time)
+   after all errors removed the             
+   program is recompiled
+
+3.execution time is less                      3.execution time is more
+
+
+4.produce machine code                     4.it produces intermediate code
+ which is directly understood                 after  translation.
+by computer
+
+5.requires more memory space        5.requires less memory space
+
+6.c,c++use compiler                                6.python,php use interpreter
